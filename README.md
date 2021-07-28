@@ -95,7 +95,6 @@ description, question_id
 
 - **command run for cron job change status question after 24 hour**
 - php artisan: question:answered <br>
-inputs is: <br>
 
 ### Output
 format all response of api like:
