@@ -15,8 +15,10 @@ Keep in mind that in this test according to the time and the document of project
 Please Step by Step go on:
 - **1- clone project from repository**
 - **2- go to directory project and run this command :**
+- cd onineSupport
 - docker-compose up --build -d
 - docker exec -it onineSupport-app bash
+- composer install --no-dev
 - php artisan migrate
 - exit
 
