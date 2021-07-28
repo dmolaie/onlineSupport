@@ -42,7 +42,7 @@ email, password, password_confirmation
 
 
 - **login**
-- http://localhost:8000/api/v1/user/register <br>
+- http://localhost:8000/api/v1/user/login <br>
 method: POST<br>
 inputs is: <br>
 email, password
